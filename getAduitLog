@@ -1,0 +1,1 @@
+ausearch -m avc -ts `date +%m/%d/%Y` > `date +%m_%d_%Y`_data
